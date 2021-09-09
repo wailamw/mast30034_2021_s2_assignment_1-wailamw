@@ -5,11 +5,10 @@
 
 # Dependencies
 - Language: Python 3.8.3
-- Packages / Libraries: _i.e pandas, numpy, sklearn, seaborn, matplotlib.pyplot, folium, geopandas, warnings
+- Packages / Libraries: _i.e pandas, numpy, seaborn, matplotlib.pyplot, random, math
 
 
 # Directory
 - `code`:
-    - Assignment 1
-- `data`: Contains all the csv files, feather files and the external weather dataset. Code to download these files can be found in Notebook 1. The large files (csv files and feather files) have been added to `.gitignore`.
+    - Assignment 1: Run the whole notebook from top to bottom.
 - `plots`: Contains all the output figures.
