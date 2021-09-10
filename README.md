@@ -10,5 +10,5 @@
 
 # Directory
 - `code`:
-    - Assignment 1: Run the whole notebook from top to bottom.
+    - Assignment 1: Run the whole notebook from top to bottom, in order.
 - `plots`: Contains all the output figures.
